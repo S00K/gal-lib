@@ -36,4 +36,4 @@ repo/org/spigot/spigotlib/
 .settings
 .classpath
 .metadata
-/bin/
+bin/
